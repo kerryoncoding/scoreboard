@@ -1,0 +1,19 @@
+
+
+
+.backboard {
+    background-color: #1B244A;
+    color: white;
+    border-radius: 5px;
+    max-width: 600px;
+    text-align: center;
+    margin: 0;
+}
+
+
+.backlite{
+    background-color: black;
+    height: 155px;
+    width: 120px;
+    color: red;
+}
