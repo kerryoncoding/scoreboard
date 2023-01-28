@@ -4,7 +4,8 @@
     display: block;
     background-color: #1B244A;
     color: white;
-    border-radius: 5px;
+    border: solid 2px black;
+    border-radius: 10px;
     max-width: 600px;
     text-align: center;
     padding-top: 10px;
@@ -23,21 +24,27 @@
 .backlite{
     display: block;
     margin: 0 auto;
-    
     background-color: black;
-    height: 155px;
     width: 120px;
     color: #F94F6D;
     font-family: 'Cursed Timer ULiL';
-   /* font-family: url(src/CursedTimerUlil-Aznm.ttf); */
+/* font-family: url(src/CursedTimerUlil-Aznm.ttf); */
     font-style: normal;
     font-weight: 400;
     font-size: 90px;
     line-height: 127px;
 }
+
 button {
     background-color:#1B244A;
     border: solid 1px white;
     color: white;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: white;
+    border: solid 1px white;
+    color: #1B244A;
     border-radius: 3px;
 }
