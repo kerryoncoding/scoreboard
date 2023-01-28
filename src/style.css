@@ -1,17 +1,19 @@
 
 
-
 .backboard {
+    display: block;
     background-color: #1B244A;
     color: white;
     border-radius: 5px;
     max-width: 600px;
     text-align: center;
-    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
 .backlite{
+    font-family: url(src/CursedTimerUlil-Aznm.ttf);
     background-color: black;
     height: 155px;
     width: 120px;
