@@ -21,10 +21,7 @@ body {
     background-color: black;
     width: 120px;
     color: #F94F6D;
-    font-family: 'Silkscreen', cursive;
-    
-    /* 'Noto Sans Symbols 2', sans-serif;
-font-family: url(src/CursedTimerUlil-Aznm.ttf); */
+    font-family: 'Cursed Timer ULiL', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 80px;
