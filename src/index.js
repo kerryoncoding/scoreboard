@@ -33,3 +33,10 @@ function add3guest() {
     currentGuest += 3;
     guestScore.innerHTML = currentGuest; 
 }
+
+function reset() {
+    currentHome = 0;
+    currentGuest = 0;
+    homeScore.innerHTML = currentHome; 
+    guestScore.innerHTML = currentGuest;
+}

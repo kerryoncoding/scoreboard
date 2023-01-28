@@ -1,4 +1,7 @@
 
+body {
+    background-color: rgb(27, 36, 74, .5); 
+}
 
 .backboard {
     display: block;
