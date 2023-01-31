@@ -13,14 +13,15 @@ function add1home() {
 }
 
 function add2home() {
-    currentHome += 2;
-    homeScore.innerHTML = currentHome;
+    add1home();
+    add1home();
     checkleader();  
 }
 
 function add3home() {
-    currentHome += 3;
-    homeScore.innerHTML = currentHome;
+    add1home();
+    add1home();
+    add1home();
     checkleader();  
 }
 
