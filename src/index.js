@@ -32,14 +32,15 @@ function add1guest() {
 }
 
 function add2guest() {
-    currentGuest += 2;
-    guestScore.innerHTML = currentGuest; 
+    add1guest();
+    add1guest() 
     checkleader();
 }
 
 function add3guest() {
-    currentGuest += 3;
-    guestScore.innerHTML = currentGuest; 
+    add1guest();
+    add1guest()
+    add1guest() 
     checkleader();
 }
 
